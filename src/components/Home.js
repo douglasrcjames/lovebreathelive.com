@@ -5,8 +5,7 @@ export default class Home extends Component {
         return (
             <div className="wrapper">
                 <h1>Home</h1>
-                {/* TODO: update content */}
-                <p>Welcome to Doug's React Boiler! Click around a bit, it's a clean slate for you!</p>
+                <p>Welcome to Love Breathe Live! This website is currently under construction, please check back soon.</p>
             </div>
         )
     }

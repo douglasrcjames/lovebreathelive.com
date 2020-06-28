@@ -1,4 +1,5 @@
-# Doug's React Boiler
+# Love Breathe Live
+Love Breathe Live is a non-profit group focused on providing community and support for those with cystic fibrosis.
 
 This project was built from Doug's React.js website boilerplate template ([dougs-react-boiler](https://github.com/facebook/create-react-app)) and was further bootstrapped from [Create React App](https://github.com/facebook/create-react-app). In this setup, we have Doug's 
 base CSS library, base React components (like Header & Footer), directories structured, React Router ready to go, and more! 
